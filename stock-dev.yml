@@ -13,7 +13,7 @@ spring:
     application:
         name: stock
     datasource:
-        password: 1234
+        password: 12345
         url: jdbc:postgresql://localhost:5432/rentACarInventoryDb
         username: postgres
     jpa:
